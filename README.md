@@ -1,0 +1,3 @@
+Strona melango !
+
+ pierwszy commit
